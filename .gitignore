@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.netlify/
+.DS_Store
+shot-*.png
+result-*.json
